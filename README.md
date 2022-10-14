@@ -1,7 +1,7 @@
 # mini-portfolio
 
 📝 Projeto criado em semana de imersão à programação do curso DevQuest. <br>
-Se trata de um mini-portifólio com informações sobre mim e minhas redes para contato.
+Se trata de um mini-portfólio com informações sobre mim e minhas redes para contato.
 
 🖥 Tecnologias utilizadas:
   <img width="30" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e471s3tok2zr2vvvpqv07qhbiihutv824szdy56dx4v&rid=giphy.gif&ct=s"/>
