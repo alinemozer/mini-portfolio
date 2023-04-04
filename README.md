@@ -1,4 +1,4 @@
-# mini-portfolio
+# mini-portfólio
 
 📝 Projeto criado em semana de imersão à programação do curso DevQuest. <br>
 Se trata de um mini-portfólio com informações sobre mim e minhas redes para contato.
